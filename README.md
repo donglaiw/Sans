@@ -5,6 +5,7 @@
 - Test Data: (data/) 
 
 ## Build
+- make crop
 
 ## Demo
 - Image Crop: (crop/) 
